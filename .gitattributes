@@ -1,2 +1,19 @@
 # Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+<head>
+	<title> lil shnawg gallery </title>
+</head>
+<body>
+
+	<h1> Hello, I am Lil Shnawg </h1>
+	<p>Wassup ,<b>lil bro</b></p>
+	<a href="https://google.com" target= "_blank" title="let's go to google">click me! I'm shnawg</a>
+
+	<p> Hello, my name is:<br>Princess
+	<img src="file:///C:/Users/legoa/OneDrive/Hi%CC%80nh%20a%CC%89nh/Cu%C3%B4%CC%A3n%20phim/princess.jpg">
+
+</body>
+</html>
+
+
